@@ -26,3 +26,13 @@
 # EasyAntiCheat Emulation PoC
 <img src=https://media.discordapp.net/attachments/978564562620129340/979520305808687114/unknown.png>
 
+
+## what are the benifits with buying the source?
+- the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
+
+- dump games + the game pdb ( some games dont work )
+- you can use detours + minhook
+- dump offsets for all titles + auto sig maker
+- choose what injection type
+- IAT dumper
+- Anti-Cheat Emulator ( allowing you to do anything you want practically )
