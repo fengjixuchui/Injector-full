@@ -1,7 +1,8 @@
 # Injector-full
+
 # im selling this source code + with other stuff  
 - add my discord if interested: skeng#9524
-- the reasoning for selling is due to me not having enough time to spend on stuff anymore and would be nice to give it on for other developers trying to learn about this stuff
+- the reasoning for selling is due to me not having enough time to spend on stuff anymore and would be nice to give it on for other developers trying to learn about this stuff.
 
 # undetected as of 28/05/2022
 
