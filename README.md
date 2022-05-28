@@ -18,6 +18,8 @@
 
 releasing only as binary code at the moment due to selling the private source code
 
+# can you be banned using this?
+- eventually this may get detected only the exe everything else is packed and fine to go
 
 # EasyAntiCheat Emulation PoC
 <img src=https://media.discordapp.net/attachments/978564562620129340/979520305808687114/unknown.png>
