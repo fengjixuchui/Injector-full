@@ -1,8 +1,9 @@
 # Injector-full
-# im selling this source code + with other stuff 
-the reasoning for selling is due to me not having enough time to spend on stuff anymore and would be nice to give it on for other developers trying to learn about this stuff
+# im selling this source code + with other stuff  
+- add my discord if interested: skeng#9524
+- the reasoning for selling is due to me not having enough time to spend on stuff anymore and would be nice to give it on for other developers trying to learn about this stuff
 
-EAC INJECTOR + VANGAURD + BATTLEYE
+
 
 
 releasing only as binary code at the moment due to selling the private source code
