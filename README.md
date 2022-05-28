@@ -20,7 +20,11 @@
 # can you be banned using this?
 - eventually this may get detected as it being public i cannot give a 100% safety but as for now yes this is undetected
 
-# information about injector
+## Questions ?
+- Q: does it work for all games | A: yes this does works for all games 
+- Q: can i create threads in my dll? | A: Yes since we emulate anticheats with this injector you can create threads
+- Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected 
+
 
 
 # EasyAntiCheat Emulation PoC
