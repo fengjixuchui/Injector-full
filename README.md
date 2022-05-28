@@ -29,6 +29,25 @@
 <img src=https://media.discordapp.net/attachments/978564562620129340/979520305808687114/unknown.png>
 
 
+## Injection methods 
+- Manual Map
+- load libary
+- APC Injection
+- SetWindowsHook ( uses window class name to inject )
+
+
+## Injection - > extra information
+- CreateRemoteThread
+- NtCreateThreadEx
+- RtlCreateUserThread
+- Delayed Injection ( choose how long you want to delay it for in )
+- Changes Started Thread's Start Address
+- Create Threads + Detours can be used within your dll
+- Clears Loaded Module's PE Headers
+- Changes Started Thread's Start Address
+
+
+
 ## what are the benifits with buying the source?
 - the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
 
@@ -38,3 +57,5 @@
 - choose what injection type
 - IAT dumper
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
+
+
