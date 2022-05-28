@@ -5,6 +5,8 @@
 
 # undetected as of 28/05/2022
 
+# works on AMD + Intel Cpus
+- can only inject into x64 process
 
 # how to use this injector ?
 - 1 place the exe and your dll in the same folder anywhere on your pc
