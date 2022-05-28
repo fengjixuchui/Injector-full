@@ -4,3 +4,6 @@ the reasoning for selling is due to me not having enough time to spend on stuff 
 
 EAC INJECTOR + VANGAURD + BATTLEYE
 
+
+releasing only as binary code at the moment due to selling the private source code
+
