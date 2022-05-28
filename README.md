@@ -17,8 +17,6 @@
 - 5 wait till the injection is complete
 
 
-# can you be banned using this?
-- eventually this may get detected as it being public i cannot give a 100% safety but as for now yes this is undetected
 
 ## Questions ?
 - Q: does it work for all games | A: yes this does works for all games 
