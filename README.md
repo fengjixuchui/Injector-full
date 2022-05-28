@@ -8,6 +8,6 @@ EAC INJECTOR + VANGAURD + BATTLEYE
 releasing only as binary code at the moment due to selling the private source code
 
 
-# emulator PoC
+# EasyAntiCheat Emulation PoC
 <img src=https://media.discordapp.net/attachments/978564562620129340/979520305808687114/unknown.png>
 
