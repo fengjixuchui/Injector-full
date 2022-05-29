@@ -31,6 +31,7 @@
 ## Injection methods 
 - Manual Map
 - load libary
+- Mono injector
 - APC Injection
 - SetWindowsHook ( uses window class name to inject )
 
