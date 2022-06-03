@@ -2,7 +2,7 @@
 
 # im selling this source code + with eac + be emulator   
 - add my discord if interested: skeng#9524
-
+Reasonable offers only
 # undetected
 
 # works on AMD + Intel Cpus
