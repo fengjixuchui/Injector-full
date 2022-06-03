@@ -33,7 +33,6 @@ Reasonable offers only
 - load libary
 - Mono injector
 - APC Injection
-- SetWindowsHook ( uses window class name to inject )
 
 
 ## Injection - > extra information
