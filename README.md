@@ -4,6 +4,8 @@
 - add my discord if interested: skeng#9524
 Reasonable offers only
 # undetected
+- emulator still working as of 26/08/2022
+
 
 # works on AMD + Intel Cpus
 - can only inject into x64 process
