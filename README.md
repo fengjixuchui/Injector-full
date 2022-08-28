@@ -2,7 +2,8 @@
 
 # im selling this source code + with eac + be emulator   
 - add my discord if interested: skeng#9524
-Reasonable offers only
+- Reasonable offers only
+
 # undetected
 - emulator still working as of 26/08/2022
 
