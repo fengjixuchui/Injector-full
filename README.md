@@ -11,7 +11,7 @@
 # works on AMD + Intel Cpus
 - can only inject into x64 process
 
-# how to use this injector ?
+# how to use this software ?
 - 1 place the exe and your dll in the same folder anywhere on your pc
 - 2 name your dll test.dll
 - 3 load your game you wish to inject into or process
