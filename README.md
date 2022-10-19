@@ -56,7 +56,9 @@
 
 - dump games + the game pdb ( some games dont work )
 - you can use detours + minhook
-- dump offsets for all titles + auto sig maker
+- Threads Supported
+- dump offsets for all titles 
+- Unreal Dumper 3/4/5 
 - choose what injection type
 - IAT dumper
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
