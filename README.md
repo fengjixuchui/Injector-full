@@ -5,7 +5,7 @@
 - Reasonable offers only
 
 # undetected
-- emulator still working as of 26/08/2022
+- emulator still working as of 26/11/2022
 
 
 # works on AMD + Intel Cpus
@@ -37,7 +37,7 @@
 - load libary
 - Mono injector
 - APC Injection
-
+- Window Hook
 
 ## Injection - > extra information
 - CreateRemoteThread
