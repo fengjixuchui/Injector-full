@@ -2,7 +2,7 @@
 
 # Purchase Private source code + with eac + be emulator   
 - add my discord if interested: skeng#9524
-- Reasonable offers only
+- Reasonable offers
 
 # undetected
 - emulator still working as of 26/11/2022
