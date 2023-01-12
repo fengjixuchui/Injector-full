@@ -1,8 +1,7 @@
 # Injector-full
 
-# Purchase Private source code + with eac + be emulator   
-- add my discord if interested: skeng#9524
-- Reasonable offers
+# Interested in Purchasing the Private source code? add my discord if interested: skeng#9524
+- Reasonable offers only
 
 # undetected
 - emulator still working as of 26/11/2022
@@ -10,6 +9,7 @@
 
 # works on AMD + Intel Cpus
 - can only inject into x64 process
+# Tested on Windows 10 20h2
 
 # how to use this software ?
 - 1 place the exe and your dll in the same folder anywhere on your pc
@@ -51,7 +51,7 @@
 
 
 
-## what are the benifits with buying the source?
+## what are the benifits with buying the private source code?
 - the source code is not public version it will be a completely undetected injector + driver along with a custom mapper allowing you to bypass vangaurd + faceit blocking methods 
 
 - dump games + the game pdb ( some games dont work )
@@ -62,5 +62,7 @@
 - choose what injection type
 - IAT dumper
 - Anti-Cheat Emulator ( allowing you to do anything you want practically )
+
+
 
 
