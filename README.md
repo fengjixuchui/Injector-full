@@ -1,6 +1,6 @@
 # Injector-full
 
-# Interested in Purchasing the Private source code? add my discord if interested: skeng#9524
+# Interested in Purchasing the Private source code? add my discord : skeng#9524
 - Reasonable offers only
 
 # undetected
