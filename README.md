@@ -1,13 +1,13 @@
 # ring0 Injector For EAC / BE games
 
-# Interested in Purchasing the Private source code? add my discord : skeng#6969
+# Interested in Purchasing Private source codes? add my discord : skeng#6969
 - Reasonable offers only
 
 # undetected
 
 
 # works on AMD + Intel Cpus
-- can only inject into x64 process
+- can only inject into a 64bit process
 # Tested on Windows 10 20h2
 
 # how to use this software ?
@@ -27,8 +27,8 @@
 
 
 # EasyAntiCheat Emulation PoC
+- the emulator is not included in this public version 
 <img src=https://media.discordapp.net/attachments/978564562620129340/979520305808687114/unknown.png>
-- with some public cheat
 
 
 ## Injection methods 
