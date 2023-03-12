@@ -1,10 +1,9 @@
-# Injector-full
+# ring0 Injector For EAC / BE games
 
-# Interested in Purchasing the Private source code? add my discord : skeng#9524
+# Interested in Purchasing the Private source code? add my discord : skeng#6969
 - Reasonable offers only
 
 # undetected
-- emulator still working as of 26/11/2022
 
 
 # works on AMD + Intel Cpus
